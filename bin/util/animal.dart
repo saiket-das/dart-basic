@@ -17,7 +17,8 @@ class Animal {
     return _age;
   }
 
-  Animal(this._name, this._age);   // Constructor
+  // Constructor
+  Animal(this._name, this._age);
 
   void printAnimalProperties () {
     print ('Name of the animal is $_name and age is $_age');
