@@ -12,7 +12,7 @@ void main () {
 
   final laptop = Laptop ('Apple', 8, 256);
   /*
-  // Error - Have to use 'const' keyword in Constructor
+  // Solution - Have to use 'const' keyword in Constructor
   const laptop = Laptop ('Apple', 8, 256);
   */
 
